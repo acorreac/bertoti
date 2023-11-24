@@ -25,6 +25,14 @@ Ao pesquisar algum produto na barra de pesquisa do site, o mesmo oferece sugest�
 
 
 ## :heavy_check_mark: Acerto
+:eight_pointed_black_star: **Heurística nº 6: Reconhecimento em vez de lembrança**
+
+O site exibe o histórico de navegação dos produtos pesquisados. Ao fornecer acesso às páginas visitadas recentemente e pesquisas realizadas no passado, o site ajuda os usuários a retomar as tarefas que deixaram incompletas e que podem ter dificuldade em lembrar.
+
+<img src="images/reconhecimento-lembranca.png">
+
+
+## :heavy_check_mark: Acerto
 :eight_pointed_black_star: **Heurística nº 7: Flexibilidade e eficiência de uso**
 
 Ao passar o mouse sobre alguma formatação de texto é mostrado as teclas de atalho para um uso mais eficiente da ferramenta.
@@ -40,12 +48,6 @@ O sistema usa recursos visuais tradicionais de mensagens de erro, como textos em
 <img src="images/visualizacao-obrigatoriedade.png">
 
 
-## :heavy_check_mark: Acerto
-:eight_pointed_black_star: **Heurística nº 6: Reconhecimento em vez de lembrança**
-
-O site exibe o histórico de navegação dos produtos pesquisados. Ao fornecer acesso às páginas visitadas recentemente e pesquisas realizadas no passado, o site ajuda os usuários a retomar as tarefas que deixaram incompletas e que podem ter dificuldade em lembrar.
-
-<img src="images/reconhecimento-lembranca.png">
 
 
 
