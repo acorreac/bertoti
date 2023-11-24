@@ -40,6 +40,15 @@ O sistema usa recursos visuais tradicionais de mensagens de erro, como textos em
 <img src="images/visualizacao-obrigatoriedade.png">
 
 
+## :heavy_check_mark: Acerto
+:eight_pointed_black_star: **Heurística nº 6: Reconhecimento em vez de lembrança**
+
+O site exibe o histórico de navegação dos produtos pesquisados. Ao fornecer acesso às páginas visitadas recentemente e pesquisas realizadas no passado, o site ajuda os usuários a retomar as tarefas que deixaram incompletas e que podem ter dificuldade em lembrar.
+
+<img src="images/reconhecimento-lembranca.png">
+
+
+
 ## :x: Erro
 :eight_pointed_black_star: **Heurística nº 2: Correspondência entre o sistema e o mundo real**
 
@@ -54,14 +63,6 @@ O site não contém símbolos similares ao mundo real, os ícones utilizados nã
 Ao navegar no site é possível identificar uma falta de padrão nos formatos de cada jogo, não há menu de categorização, causando ao usuário uma confusão ou perda de tempo ao produrar por um jogo.
 
 <img src="images/falta-padrao.png">
-
-.
-## :x: Erro
-:eight_pointed_black_star: **Heurística nº 6: Reconhecimento em vez de lembrança**
-
-O site exibe o histórico de navegação dos produtos pesquisados. Ao fornecer acesso às páginas visitadas recentemente e pesquisas realizadas no passado, o site ajuda os usuários a retomar as tarefas que deixaram incompletas e que podem ter dificuldade em lembrar.
-
-<img src="images/reconhecimento-lembranca.png">
 
 
 ## :x: Erro
