@@ -19,9 +19,17 @@ O sistema apresenta feedback ao usuário o mais rápido possível quando o Ender
 ## :heavy_check_mark: Acerto
 :eight_pointed_black_star: **Heurística nº 5: Prevenção de erros**
 
+Ao pesquisar algum produto na barra de pesquisa do site, o mesmo oferece sugestões de produtos, assim evitando que o usuário erre na escrita do produto, ou gaste tempo procurando em produtos que não é de seu interesse mas que tem nome parecido com o que procura.
+
+<img src="images/oferece-ajuda.png">
+
 
 ## :heavy_check_mark: Acerto
 :eight_pointed_black_star: **Heurística nº 7: Flexibilidade e eficiência de uso**
+
+Ao passar o mouse sobre alguma formatação de texto é mostrado as teclas de atalho para um uso mais eficiente da ferramenta.
+
+<img src="images/flexibilidade-eficiencia-uso.png">
 
 
 ## :heavy_check_mark: Acerto
@@ -43,9 +51,17 @@ O site não contém símbolos similares ao mundo real, os ícones utilizados nã
 ## :x: Erro
 :eight_pointed_black_star: **Heurística nº 4: Consistência e padrões**
 
+Ao navegar no site é possível identificar uma falta de padrão nos formatos de cada jogo, não há menu de categorização, causando ao usuário uma confusão ou perda de tempo ao produrar por um jogo.
 
+<img src="images/falta-padrao.png">
+
+.
 ## :x: Erro
 :eight_pointed_black_star: **Heurística nº 6: Reconhecimento em vez de lembrança**
+
+O site exibe o histórico de navegação dos produtos pesquisados. Ao fornecer acesso às páginas visitadas recentemente e pesquisas realizadas no passado, o site ajuda os usuários a retomar as tarefas que deixaram incompletas e que podem ter dificuldade em lembrar.
+
+<img src="images/reconhecimento-lembranca.png">
 
 
 ## :x: Erro
