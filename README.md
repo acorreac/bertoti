@@ -5,4 +5,4 @@ Este repositório se refere as entregas das atividades da disciplina IHC, oferta
 * [Heurísticas interface gráfica - Pasta HIG](HIG/README.md)
 
 ## Atividade 2
-* Chatbot de interface por linguagem - Pasta CIL
+* [Chatbot de interface por linguagem - Pasta CIL](CIL)
